@@ -1,8 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Azura-Admin Dashboard
+- [Netlify link](https://azura-admin.netlify.app/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+A brief description of what this project does and who it's for
+
+### features
+ - Full Responsive
+ - All Chart Available
+ - Beautiful Sidebar & Navbar
+ - Order PAge
+ - Employee Page
+ - Customer Page
+
+This Project made by syncfusion UI component
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5YAa3-p-mF1sVOMxuvfJZll80xZ_KzWvs41ZVFRd4Z_00Aq9BuB-IJTZMlDeX9YKa3mEtcdszDkOBxam9JQY3FQ3SLi0DjXk4mDnwod2x2pX3573KT5MGtI1u0lEvPHv4U8uOY6AB3fIenrJjHILgb1smT7DfumAJgbpJYYIFisjUFr9z-tGqXCKKPW4/s1867/azura.jpg)
+
+
+## Screenshots
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHwKCMzRE7o882kLprm6q2nrHTe3Y1eRYgnxuT_yP_aZXHoEKxZnB1m5BZUeG8LxfnSTFHocsxXQpLlAQx0E4o1VNMVI_-xnvf03bH_OrRP3Ha17jhKU8Izr7z2TM4keeVoUdI2ADHJgUz2LwoQopz-A8Rw1HYIxzalxuBume3Uoim2gt6sfcuV6gdlM4/s1843/cstmer.jpg)
+
+
+## 🛠 Using
+React, Tailwind css And Syncfusion UI...
+
